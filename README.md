@@ -47,8 +47,6 @@ WebDev-L1-LandingPage/
 ![alt text](<screenshots/Desktop View 1.png>)
 ![alt text](<screenshots/Desktop View 2.png>)
 ![alt text](<screenshots/Desktop View 3.png>)
-### Mobile View
-(Add mobile screenshot here)
 
 ## 👨‍💻 Author
 

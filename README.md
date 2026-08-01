@@ -1,5 +1,5 @@
 # Oasis Infobyte Task 1 Landing Page
-# SandyTech - Landing Page
+# Srivasan - Landing Page
 
 ## 📌 Internship
 **Oasis Infobyte Web Development & Designing Internship**
